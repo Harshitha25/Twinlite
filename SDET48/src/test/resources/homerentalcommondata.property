@@ -1,0 +1,6 @@
+url "http://rmgtestingserver/domain/House_Rental_Application/
+browser chrome
+username RamuUser
+password ramu@123
+a_username admin
+a_pwd admin
